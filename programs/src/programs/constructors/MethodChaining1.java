@@ -37,6 +37,7 @@ public class MethodChaining1 {
 		this.price = price;
 		this.year =year;
 		
+		
 	}
 	public static void main(String[] args) {
 		System.out.println("main method  started");
